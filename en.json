@@ -1,0 +1,148 @@
+{
+ "nav": {
+  "home": "Home",
+  "rooms": "Rooms",
+  "exp": "Experiences",
+  "gallery": "Gallery",
+  "about": "About",
+  "contact": "Contact"
+ },
+ "book": "Book Now",
+ "search": "Search",
+ "searchPh": "Search rooms, experiences…",
+ "none": "Nothing found",
+ "clear": "Clear",
+ "close": "Close",
+ "hero": {
+  "tag": "LUXURY STAYS. UNFORGETTABLE JOURNEYS.",
+  "t": "Your Perfect Getaway Awaits",
+  "sub": "Discover world-class comfort, breathtaking views and personalized experiences at Skyview Hotels & Resorts.",
+  "dest": "Destination",
+  "destPh": "Where are you going?",
+  "in": "Check In",
+  "out": "Check Out",
+  "guests": "Guests",
+  "go": "Search Rooms"
+ },
+ "feat": [
+  "Luxury Rooms & Suites",
+  "World-Class Amenities",
+  "Fine Dining",
+  "Prime Locations",
+  "Trusted & Safe"
+ ],
+ "rooms": {
+  "eyebrow": "FEATURED STAYS",
+  "title": "Exquisite Rooms & Suites",
+  "desc": "Thoughtfully designed for your comfort, our rooms blend modern luxury with natural beauty.",
+  "all": "View All Rooms",
+  "deluxe": "Deluxe Room",
+  "ocean": "Ocean View Suite",
+  "villa": "Private Pool Villa",
+  "family": "Family Suite",
+  "guests": "Guests",
+  "beds": "Beds",
+  "night": "/ night",
+  "details": "Details",
+  "select": "Select Room",
+  "maxPrice": "Max price",
+  "type": "Type",
+  "any": "Any",
+  "room": "Room",
+  "suite": "Suite",
+  "villaT": "Villa",
+  "avail": "Available only",
+  "empty": "No rooms match your search",
+  "amen": "Wi-Fi · Breakfast · Air conditioning · Sea view"
+ },
+ "video": {
+  "eyebrow": "TOP DESTINATION",
+  "title": "Experience Paradise at Our Beach Resort",
+  "sub": "Wake up to ocean views, enjoy private beach access and indulge in unforgettable moments.",
+  "watch": "Watch Video",
+  "err": "Video is unavailable. Replace VIDEO_URL in data/rooms.js."
+ },
+ "exp": {
+  "title": "Hotel Experiences",
+  "sub": "More than a stay — a journey of unforgettable moments.",
+  "more": "Explore More",
+  "spa": "Spa & Wellness",
+  "food": "Culinary Journey",
+  "tours": "Adventure Tours",
+  "culture": "Local Culture",
+  "d_spa": "Massages, thermal pools and yoga at sunrise.",
+  "d_food": "Tasting menus with local ingredients by our chefs.",
+  "d_tours": "Guided hikes, kayaking and mountain excursions.",
+  "d_culture": "Workshops, music and visits to local artisans."
+ },
+ "adv": {
+  "title": "The Skyview Advantage",
+  "sub": "From exceptional service to breathtaking locations, we make sure your stay is nothing short of extraordinary.",
+  "i": [
+   "5-Star Service",
+   "Best Price Guarantee",
+   "Flexible Booking",
+   "24/7 Support"
+  ]
+ },
+ "rev": {
+  "text": "Skyview Hotel gave us the most beautiful vacation experience! The staff was amazing and the views were breathtaking.",
+  "text2": "Perfect service, spotless rooms and a stunning pool. We will definitely return.",
+  "text3": "The mountain tours and the spa were the highlight of our family trip."
+ },
+ "offer": {
+  "title": "Save Up to 30% on Your Dream Stay",
+  "sub": "Demo offer: book now and enjoy exclusive discounts and special benefits.",
+  "d": "Days",
+  "h": "Hours",
+  "m": "Minutes",
+  "s": "Seconds"
+ },
+ "bk": {
+  "title": "Booking",
+  "name": "Full Name",
+  "email": "Email",
+  "phone": "Phone",
+  "notes": "Special requests",
+  "room": "Room",
+  "nights": "Nights",
+  "total": "Total",
+  "submit": "Confirm Booking",
+  "demo": "Demo Booking — not sent to a real hotel system.",
+  "ok": "Demo booking saved",
+  "list": "Your demo bookings",
+  "e": {
+   "name": "Enter your name",
+   "email": "Invalid email",
+   "phone": "Invalid phone number",
+   "dates": "Check-out must be after check-in",
+   "cap": "Too many guests for this room"
+  }
+ },
+ "ct": {
+  "title": "Contact Us",
+  "msg": "Message",
+  "submit": "Submit",
+  "ok": "Demo mode: form is valid, nothing was sent.",
+  "e": {
+   "msg": "Enter a message"
+  },
+  "addr": "Bali, Indonesia (demo address)"
+ },
+ "about": {
+  "title": "About Skyview",
+  "text": "Skyview Hotels & Resorts is a demo brand of luxury resorts built on warm hospitality, natural beauty and attention to detail."
+ },
+ "legal": {
+  "privacy": "Privacy Policy",
+  "terms": "Terms & Conditions",
+  "text": "Demo page for a student project. No real data is collected or sent."
+ },
+ "gal": {
+  "title": "Gallery"
+ },
+ "foot": {
+  "desc": "Luxury stays and unforgettable journeys.",
+  "rights": "All rights reserved."
+ }
+}

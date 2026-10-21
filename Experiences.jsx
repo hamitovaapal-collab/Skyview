@@ -1,0 +1,3 @@
+import {useState} from 'react';import {useTranslation} from 'react-i18next';import Img from '../components/Img.jsx';import ExpModal from '../components/ExpModal.jsx';import {experiences} from '../data/rooms.js';
+export default function Experiences(){const {t}=useTranslation();const [e,setE]=useState(null);
+return <section className="sec page"><h2>{t('exp.title')}</h2><div className="grid4">{experiences.map(x=><button key={x.id} className="card expc" onClick={()=>setE(x)}><Img src={x.img} alt={t(`exp.${x.id}`)}/><b>{t(`exp.${x.id}`)}</b><small>{t('exp.more')}</small></button>)}</div>{e&&<ExpModal e={e} onClose={()=>setE(null)}/>}</section>;}
